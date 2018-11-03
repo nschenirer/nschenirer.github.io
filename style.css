@@ -1,0 +1,12 @@
+h1{
+	color: darkgrey;
+	text-align: center;
+}
+
+img{
+	width: 400px;
+}
+
+.pets:hover{
+	zoom: 125%;
+}
